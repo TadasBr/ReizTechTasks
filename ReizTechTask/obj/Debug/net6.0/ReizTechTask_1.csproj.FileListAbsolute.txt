@@ -1,0 +1,15 @@
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\bin\Debug\net6.0\ReizTechTask_1.exe
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\bin\Debug\net6.0\ReizTechTask_1.deps.json
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\bin\Debug\net6.0\ReizTechTask_1.runtimeconfig.json
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\bin\Debug\net6.0\ReizTechTask_1.dll
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\bin\Debug\net6.0\ReizTechTask_1.pdb
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.csproj.AssemblyReference.cache
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.AssemblyInfoInputs.cache
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.AssemblyInfo.cs
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.csproj.CoreCompileInputs.cache
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.dll
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\refint\ReizTechTask_1.dll
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.pdb
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ReizTechTask_1.genruntimeconfig.cache
+C:\Users\Tadas\Desktop\ReizTechTask\ReizTechTask\obj\Debug\net6.0\ref\ReizTechTask_1.dll
